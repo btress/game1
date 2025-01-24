@@ -140,7 +140,7 @@
 
         function checkWin() {
             if (player.x === endPoint.x && player.y === endPoint.y) {
-                alert('Chúc mừng bạn đã tìm ra được cái nịt :>');
+                alert('muốn kiếm ngiu thì đi kiếm đi chơi cc :>');
                 startGame();
             }
         }
